@@ -7,6 +7,6 @@
   {
     "id": 2,
     "project_name": "Nodejs server deployment with Kubicle",
-    "file_name": "nodejs_project.json"
+    "file_name": "nodejsdeployment.json"
   }
 ]
